@@ -1,0 +1,19 @@
+All osu! graphic and other game assets are copyright ppy Pty Ltd.
+
+C² License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Skin"), to deal
+in the Software, including the rights to modify, but not to publish, distribute,
+or sell copies of the Software, and to permit persons to whom the Skin is
+furnished to do so, subject to the following conditions:
+
+1. **Permissions:**
+   - The Skin may be modified for personal use.
+
+2. **Restrictions:**
+   - The Software, modified or unmodified, may not be published, distributed, or sold.
+   - Sublicensing or transferring the rights to the Software is prohibited.
+
+Caleb Calamity (c²)
+6:49 PM 2024-12-26 [YYYY-MM-DD]
